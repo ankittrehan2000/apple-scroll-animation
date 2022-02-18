@@ -6,4 +6,5 @@ Medium article: https://medium.com/@ankittrehan2000/creating-scroll-animations-s
 
 Final Implementation: 
 
+
 <img src="https://github.com/ankittrehan2000/apple-scroll-animation/blob/main/finalhigherqual.gif" />
